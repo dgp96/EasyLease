@@ -5,8 +5,13 @@
       <map>
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_maintenance.xml" value="0.5" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/xml/preferences.xml" value="0.17395833333333333" />
       </map>
     </option>
   </component>

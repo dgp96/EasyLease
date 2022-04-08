@@ -9,12 +9,20 @@
     tools:context=".LoginActivity">
 
     <EditText
+        android:id="@+id/etNameSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Full Name" />
+
+    <EditText
         android:id="@+id/etUsernameSignUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="username" />
+        android:hint="Username" />
 
     <EditText
         android:id="@+id/etPasswordSignUp"
@@ -22,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="password"
+        android:hint="Password"
         android:inputType="textPassword" />
 
     <EditText
@@ -31,7 +39,17 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:hint="email" />
+        android:inputType="textEmailAddress"
+        android:hint="Email" />
+
+    <EditText
+        android:id="@+id/etAptNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="Apartment Number : eg:- 1087" />
 
     <Button
         android:id="@+id/btnSignUp"
